@@ -1,4 +1,4 @@
-#  
+#  instant dandy's world Scripts is the best dandy's world Script, featuring auto-heal and no cooldown. Safe and powerful for all your needs.
 
 
 
